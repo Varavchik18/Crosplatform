@@ -1,0 +1,28 @@
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.exe
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.deps.json
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.runtimeconfig.json
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.runtimeconfig.dev.json
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.dll
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.pdb
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.csproj.AssemblyReference.cache
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.AssemblyInfoInputs.cache
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.AssemblyInfo.cs
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.dll
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.pdb
+C:\Users\I\source\repos\Lab 2 crossplatform\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.genruntimeconfig.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.exe
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.deps.json
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.runtimeconfig.json
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.runtimeconfig.dev.json
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\bin\Debug\netcoreapp3.1\Lab 2 crossplatform.pdb
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.csproj.AssemblyReference.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.AssemblyInfoInputs.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.AssemblyInfo.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.csproj.CoreCompileInputs.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.pdb
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab2\Lab 2 crossplatform\obj\Debug\netcoreapp3.1\Lab 2 crossplatform.genruntimeconfig.cache

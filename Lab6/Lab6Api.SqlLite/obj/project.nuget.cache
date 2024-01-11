@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QodOs16v84aAoYm+XcESZKaOQOjwYV/tuQdqMpiZKeZMIE77Sny720N8NluE4lsLbASgx6nTBWOlF17UZaYIMA==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\Shevchenko\\4 курс\\Кросплатформа\\Lab6\\Lab6Api.SqlLite\\Lab6Api.SqlLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

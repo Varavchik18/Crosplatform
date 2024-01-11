@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6P8SH+P8kGGWSVeaF2MDoMqOMwOKCUVnMrJmPuARa4/KfsUuwZTApdzzBFysMWeArKQcObHdSBb5ZP3N7mWb3g==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\Shevchenko\\4 курс\\Кросплатформа\\Lab6\\Lab6Api.Models\\Lab6Api.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

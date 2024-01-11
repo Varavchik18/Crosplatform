@@ -1,0 +1,121 @@
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\appsettings.json
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\lab5Cross.exe
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\lab5Cross.deps.json
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\lab5Cross.runtimeconfig.json
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\lab5Cross.runtimeconfig.dev.json
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\lab5Cross.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\ref\lab5Cross.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\lab5Cross.pdb
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\lab5Cross.Views.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\lab5Cross.Views.pdb
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.csproj.AssemblyReference.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.AssemblyInfoInputs.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.AssemblyInfo.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorAssemblyInfo.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorAssemblyInfo.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\staticwebassets\lab5Cross.StaticWebAssets.Manifest.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\staticwebassets\lab5Cross.StaticWebAssets.xml
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\scopedcss\bundle\lab5Cross.styles.css
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.TagHelpers.input.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.TagHelpers.output.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorCoreGenerate.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorTargetAssemblyInfo.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorTargetAssemblyInfo.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.Views.pdb
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\ref\lab5Cross.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.pdb
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.genruntimeconfig.cache
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\lab5Cross.csproj.CopyComplete
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\libman.json
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\Labs\Lab1.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\Labs\Lab2.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\Labs\Lab3.cshtml.g.cs
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\All_Labs.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\All_Labs.pdb
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Okta.AspNet.Abstractions.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\Okta.AspNetCore.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\I\source\repos\lab5Cross\lab5Cross\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\appsettings.json
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\libman.json
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\lab5Cross.StaticWebAssets.xml
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\lab5Cross.exe
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\lab5Cross.deps.json
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\lab5Cross.runtimeconfig.json
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\lab5Cross.runtimeconfig.dev.json
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\lab5Cross.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\lab5Cross.pdb
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\lab5Cross.Views.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\lab5Cross.Views.pdb
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Okta.AspNet.Abstractions.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\Okta.AspNetCore.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\All_Labs.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\bin\Debug\net5.0\All_Labs.pdb
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.csproj.AssemblyReference.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.AssemblyInfoInputs.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.AssemblyInfo.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.csproj.CoreCompileInputs.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorAssemblyInfo.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorAssemblyInfo.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\scopedcss\bundle\lab5Cross.styles.css
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\staticwebassets\lab5Cross.StaticWebAssets.Manifest.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\staticwebassets\lab5Cross.StaticWebAssets.Pack.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\staticwebassets\msbuild.lab5Cross.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\staticwebassets\msbuild.build.lab5Cross.props
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.lab5Cross.props
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.lab5Cross.props
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.TagHelpers.input.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.TagHelpers.output.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorCoreGenerate.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\Labs\Lab1.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\Labs\Lab2.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\Labs\Lab3.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorTargetAssemblyInfo.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.RazorTargetAssemblyInfo.cs
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.Views.pdb
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.csproj.CopyComplete
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\refint\lab5Cross.dll
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.pdb
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\lab5Cross.genruntimeconfig.cache
+D:\Study\Shevchenko\4 курс\Кросплатформа\Lab5\lab5Cross\obj\Debug\net5.0\ref\lab5Cross.dll
